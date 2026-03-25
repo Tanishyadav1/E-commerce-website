@@ -21,10 +21,3 @@ A fully interactive, modern e-commerce concept website for streetwear and workou
 - CSS3 (no frameworks)
 - Vanilla JavaScript (no libraries)
 
-## 🚀 Live Demo
-[View Live on GitHub Pages](#)
-
-## 👨‍💻 Developer
-**Rohit Vishwakarma**  
-B.Tech CSE — Lovely Professional University  
-📸 Instagram: [@_rohit__vishwakarma__](https://www.instagram.com/_rohit__vishwakarma__/)
